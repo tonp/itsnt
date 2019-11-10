@@ -1,0 +1,42 @@
+body,html{
+ height:100%; 
+ width:100%;
+}
+
+
+.icon{
+height:40px;
+width:40px;
+
+}
+
+img{
+
+//height:600px;
+
+}
+
+.carousel{
+  height: 600px;
+  width: auto;
+  overflow: hidden;
+}
+
+
+
+#header{
+height:110px; 
+font-family: 'Lato', sans-serif;
+text-align:center;
+
+}
+
+h1{
+padding:30px;
+}
+
+#footer{
+padding:15px;
+height: 30px;
+text-align:center;
+}
